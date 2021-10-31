@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1635232399 source:d:\tel-u\tugas online learning\smstr 5\dajarkom\tugas_udp_1302194041_leonardho r. sitanggang\tugas_udp_1302194041_leonardho r. sitanggang\main.cpp
+	<iostream>
+	"udp.h"
+
+1635232487 d:\tel-u\tugas online learning\smstr 5\dajarkom\tugas_udp_1302194041_leonardho r. sitanggang\tugas_udp_1302194041_leonardho r. sitanggang\udp.h
+
+1635236173 source:d:\tel-u\tugas online learning\smstr 5\dajarkom\tugas_udp_1302194041_leonardho r. sitanggang\tugas_udp_1302194041_leonardho r. sitanggang\udp.cpp
+	"udp.h"
+	<iostream>
+	<string.h>
+	<math.h>
+
